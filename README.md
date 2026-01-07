@@ -20,7 +20,7 @@ Product Inspector AI is an open-source quality inspection system designed for pr
 
 ```bash
 # Clone the repository
-git clone https://github.com/liveupx/product-inspector-ai.git
+git clone https://github.com/liveupx/QualityInspector.git
 cd product-inspector-ai
 
 # Install required dependencies
@@ -127,5 +127,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 LiveupX - [@liveupx](https://github.com/liveupx)
-
-Project Link: [https://github.com/liveupx/product-inspector-ai](https://github.com/liveupx/product-inspector-ai)
